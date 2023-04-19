@@ -1,0 +1,53 @@
+.form-container {
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    border: 1px solid rgb(235, 227, 227);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: white
+}
+
+.form-title {
+    font-family: Lato;
+    Font-style: Regular;
+    Font-size: 35px;
+    Line-height: 42px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    Letter-spacing: 0.25%;
+    text-align: center;
+
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-control input {
+    width: 300px;
+    height: 40px;
+    margin-left: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-left: 10px;
+
+
+}
+
+.btn-submit {
+    font-size: 21px;
+    font-family: lato;
+    width: 300px;
+    height: 40px;
+    background-color: #FF99004D;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+}
